@@ -63,7 +63,5 @@ disp("Window used: Rectangular");
 <img width="762" height="598" alt="508881128-ab3d4755-2e0c-4399-90fe-09fb0de38ae2" src="https://github.com/user-attachments/assets/7c515a52-46cf-427a-9d31-1c7c39ee3383" />
 <img width="758" height="632" alt="508881187-c1321a64-bed2-4b1b-a16e-85857d852212" src="https://github.com/user-attachments/assets/fd923dc4-bc26-4113-b751-c54a6ea9add2" />
 
-
-
 # RESULT
 Design of low pass FIR digital filter using SCILAB was generated.
